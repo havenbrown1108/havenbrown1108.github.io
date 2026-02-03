@@ -1,6 +1,6 @@
 {
-  "name": "devlopr jekyll blog",
-  "description": "A Jekyll Theme built for Developers",
-  "repository": "https://github.com/sujaykundu777/devlopr-jekyll",
+  "name": "online resume/portfolio",
+  "description": "Portfolio containing supplemental materials for my resume",
+  "repository": "https://github.com/havenbrown1108/havenbrown1108.github.io",
   "keywords": ["jekyll", "blog"]
 }

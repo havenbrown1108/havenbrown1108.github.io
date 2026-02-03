@@ -1,10 +1,10 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Haven Brown
+subtitle: All the things I couldn't fit in a resume
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  A one stop shop to catch up with past and present me!
 
 url: "https://havenbrown1108.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -16,8 +16,6 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
@@ -27,11 +25,11 @@ urls:
 author_logo: profile.png
 author: Haven Brown
 author_bio: Graduate Research Assistant at NCSU
-author_email: ""
+# author_email: ""
 author_location: Raleigh, NC
-author_website_url: ""
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+# author_website_url: ""
+typewrite-text: A one stop shop to catch up with past and present me!
+hero_cover_img: cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
