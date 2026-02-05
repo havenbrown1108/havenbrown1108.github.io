@@ -1,5 +1,5 @@
 title: Haven Brown
-subtitle: All the things I couldn't fit in a resume
+subtitle: Graduate Research Assistant, Math Nerd, Roboticist, Game Developer
 description: >- # this means to ignore newlines until "baseurl:"
   A one stop shop to catch up with past and present me!
 
@@ -33,17 +33,23 @@ hero_cover_img: cover.jpg # replace this for changing homepage cover (eg. try co
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: NCSU
+              company_logo: ncstate-brick-2x2-red.png
+              company_url: https://www.ncsu.edu/
+              designation: Graduate Research Assistant
+              description: Working with Dr. Justin Bradley to advance research in decision making at runtime for UAVs
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: NIMBUS Lab
+              company_logo: nimbus_logo.png
+              company_url: https://nimbus.unl.edu/
+              designation: Graduate Research Assistant, REU Mentor
+              description: Researched use of MDPs for UAV decision making. Mentored two REU students, <a href="https://lab.nimbus.unl.edu/#!posts/REU/REU_2024.md">check out Emily and Rubén's work!</a>
+              visibility: true
+            - company_name: Causeway Studios
+              company_logo: causeway.jpg
+              company_url: https://www.causewaystudios.com/
+              designation: Gameplay Programmer
+              description: 
               visibility: true
 
 # Education
