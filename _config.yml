@@ -4,20 +4,20 @@ description: >- # this means to ignore newlines until "baseurl:"
   A one stop shop to catch up with past and present me!
 
 url: "https://havenbrown1108.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
-      url: /
+    # - text: Home
+    #   url: /
     - text: About
       url: /about
-    - text: Blog
-      url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Contact
-      url : /contact
+    # - text: Blog
+    #   url: /blog
+    # - text: Gallery
+    #   url: /gallery
+    # - text: Contact
+    #   url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
@@ -48,11 +48,23 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: ncstate-brick-2x2-red.png
+                college_name: North Carolina State University
+                college_url: https://www.ncsu.edu/
+                college_degree: Computer Science 
+                description: PhD student, 2024-present
+                visibility: true
+              - college_logo: nebraska-n.jpg
+                college_name: University of Nebraska-Lincoln
+                college_url: https://www.unl.edu/
+                college_degree: Computer Science 
+                description: PhD student 2023-2024, transferred to NCSU with my advisor
+                visibility: true
+              - college_logo: RightHog.png
+                college_name: University of Arkansas
+                college_url: https://www.uark.edu/
+                college_degree: B.S. in Computer Science and B.S. in Pure Mathematics
+                description: Undergraduate Dual-Degree with Honors 2016-2020
                 visibility: true
 
 # Projects
@@ -69,11 +81,11 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: xplor4r
-github_username:  sujaykundu777
-instagram_username: xplor4r
+# twitter_username: xplor4r
+github_username:  havenbrown1108
+# instagram_username: xplor4r
 # facebook_username: johndoe
-# linkedin_username: johndoe
+linkedin_username: haven-brown-710331125
 # behance_username: johndoe
 # medium_username: johndoe
 # telegram_username: johndoe
@@ -86,14 +98,14 @@ instagram_username: xplor4r
 # hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+# formspree_email: johndoe@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
