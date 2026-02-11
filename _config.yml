@@ -37,19 +37,19 @@ author_work_experiences:
               company_logo: ncstate-brick-2x2-red.png
               company_url: https://www.ncsu.edu/
               designation: Graduate Research Assistant
-              description: Working with Dr. Justin Bradley to advance research in decision making at runtime for UAVs
+              description: Working with Dr. Justin Bradley to advance research in decision making at runtime for UAVs. Presented research at Graduate Student Research Symposium.
               visibility: true
             - company_name: NIMBUS Lab
               company_logo: nimbus_logo.png
               company_url: https://nimbus.unl.edu/
               designation: Graduate Research Assistant, REU Mentor
-              description: Researched use of MDPs for UAV decision making. Mentored two REU students, <a href="https://lab.nimbus.unl.edu/#!posts/REU/REU_2024.md">check out Emily and Rubén's work!</a>
+              description: Researched use of MDPs for UAV decision making. Presented research at AIAA ISTC technical workshop poster session. Mentored two REU students, <a href="https://lab.nimbus.unl.edu/#!posts/REU/REU_2024.md">check out Emily and Rubén's work!</a>
               visibility: true
             - company_name: Causeway Studios
               company_logo: causeway.jpg
               company_url: https://www.causewaystudios.com/
               designation: Gameplay Programmer
-              description: 
+              description: Shipped two titles <a href="/projects/animal-anarchy"><i>Animal Anarchy</i></a> and <a href="/projects/italian-cooking"><i>Italian Cooking</i></a>. Established software engineering standards and best practices.
               visibility: true
 
 # Education
@@ -75,16 +75,16 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
+              # - project_thumbnail: gamershub.png
+              #   project_title: Gamers Hub
+              #   project_description: A Platform built for Gamers and Game Devs
+              #   project_url: https://gamershub.in
+              #   visibility: true
+              # - project_thumbnail: hack4r.PNG
+              #   project_title: Hack4r
+              #   project_description: A Platform built for Hackers and Penetration Testers
+              #   project_url: https://hack4r.com
+              #   visibility: true
 
 # social links
 # twitter_username: xplor4r
